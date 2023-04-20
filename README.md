@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @bella-ame
 - 👀 I’m interested in anything that can make me money and credit in future
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on nothing as of now
-- 📫 How to reach me "meet me on graveyard"
+- 🌱 I’m currently learning Networking
+- 💞️ I’m looking to collaborate on projects of any domain but blockchain
+- 📫 How to reach me "meet me at the graveyard"
 
 <!---
 bella-ame/bella-ame is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
